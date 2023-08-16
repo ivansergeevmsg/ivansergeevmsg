@@ -1,4 +1,4 @@
-# Hello. I am Ivan.
+# Hello.
 
 I am a mathematician and a research programmer.
 
