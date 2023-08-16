@@ -3,7 +3,7 @@
   <tr borders=0>
     <td>&nbsp;</td>
     <td border=0>
-Hi there 👋
+
   </td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
