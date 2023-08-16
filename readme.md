@@ -1,4 +1,4 @@
-# Hi!.
+# Hi!
 
 I am a mathematician and a research programmer.
 
